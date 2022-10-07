@@ -1,1 +1,1 @@
-These are commands and scripts that deals permissions on Shell
+These are commands and scripts that deal with permissions on Shell
