@@ -1,6 +1,9 @@
 # Check the status of ufw to make sure it is active by running:
 
 sudo ufw status
+sudo apt-get install ufw
+
+sudo ufw disable
 
 # If ufw is not active, you can enable it by running:
 suo ufw enable
